@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include <iostream>
 #include <stdlib.h>
@@ -17,3 +17,4 @@
 using namespace std;
 using namespace openni;
 using namespace cv;
+//测试
